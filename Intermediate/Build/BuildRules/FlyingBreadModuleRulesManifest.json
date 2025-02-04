@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"E:\\Unreal\\Unrealproject\\FlyingBread\\Source\\FlyingBread\\FlyingBread.Build.cs",
+		"E:\\Unreal\\Unrealproject\\FlyingBread\\Source\\FlyingBread.Target.cs",
+		"E:\\Unreal\\Unrealproject\\FlyingBread\\Source\\FlyingBreadEditor.Target.cs"
+	],
+	"EngineVersion": "5.5.2"
+}

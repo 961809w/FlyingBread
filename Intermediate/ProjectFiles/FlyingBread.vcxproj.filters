@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\FlyingBread.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\FlyingBread.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\FlyingBreadEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.vsconfig" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\FlyingBread">
+      <UniqueIdentifier>{65E3C31C-BA48-3A9D-97D6-6ABA1CAF7DFE}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\FlyingBread\FlyingBread.Build.cs">
+      <Filter>Source\FlyingBread</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\FlyingBread\FlyingBread.cpp">
+      <Filter>Source\FlyingBread</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\FlyingBread\FlyingBread.h">
+      <Filter>Source\FlyingBread</Filter>
+    </ClCompile>
+    <Filter Include="Source\FlyingBread\Private">
+      <UniqueIdentifier>{7A3C60C9-2261-353E-8E0D-C0EC64C1518F}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\FlyingBread\Private\Chair.cpp">
+      <Filter>Source\FlyingBread\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\FlyingBread\Private\Cookie.cpp">
+      <Filter>Source\FlyingBread\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\FlyingBread\Private\Croissant.cpp">
+      <Filter>Source\FlyingBread\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\FlyingBread\Public">
+      <UniqueIdentifier>{B994DD7E-49AB-37E4-AA9E-3345D86DF576}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\FlyingBread\Public\Chair.h">
+      <Filter>Source\FlyingBread\Public</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\FlyingBread\Public\Cookie.h">
+      <Filter>Source\FlyingBread\Public</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\FlyingBread\Public\Croissant.h">
+      <Filter>Source\FlyingBread\Public</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

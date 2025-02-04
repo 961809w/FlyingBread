@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "FlyingBread",
+			"Path": "..\\Source\\FlyingBread.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "FlyingBreadEditor",
+			"Path": "..\\Source\\FlyingBreadEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
